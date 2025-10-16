@@ -4,32 +4,12 @@
     <link rel="self" type="application/atom+xml" href="https://thecityhaspulledthewooloveroureyesbutnolonger.info/atom.xml"/>
     <link rel="alternate" type="text/html" href="https://thecityhaspulledthewooloveroureyesbutnolonger.info"/>
     <generator uri="https://www.getzola.org/">Zola</generator>
-    <updated>2024-04-17T06:41:00+00:00</updated>
+    <updated>2024-04-18T04:15:00+00:00</updated>
     <id>https://thecityhaspulledthewooloveroureyesbutnolonger.info/atom.xml</id>
     <entry xml:lang="en">
-        <title>The Missing Are Not Missing—They’ve Been Taken</title>
-        <published>2024-04-17T06:41:00+00:00</published>
-        <updated>2024-04-17T06:41:00+00:00</updated>
-        
-        <author>
-          <name>
-            
-              John Doe
-            
-          </name>
-        </author>
-        
-        <link rel="alternate" type="text/html" href="https://thecityhaspulledthewooloveroureyesbutnolonger.info/posts/missing-not-missing/"/>
-        <id>https://thecityhaspulledthewooloveroureyesbutnolonger.info/posts/missing-not-missing/</id>
-        
-        <summary type="html">&lt;p&gt;Something is happening in the city. Something no one wants to talk about.&lt;&#x2F;p&gt;
-&lt;p&gt;The numbers don’t lie, even if the officials do. People are vanishing. Not just a few. Not just here and there. &lt;strong&gt;Hundreds&lt;&#x2F;strong&gt;. And not the kind of people who get press coverage. Not the kind who have families that can afford billboards and search parties.&lt;&#x2F;p&gt;</summary>
-        
-    </entry>
-    <entry xml:lang="en">
         <title>The Aether Is Gone and the City Is Cracking</title>
-        <published>2024-04-17T04:15:00+00:00</published>
-        <updated>2024-04-17T04:15:00+00:00</updated>
+        <published>2024-04-18T04:15:00+00:00</published>
+        <updated>2024-04-18T04:15:00+00:00</updated>
         
         <author>
           <name>
@@ -61,6 +41,26 @@
 &lt;p&gt;Both have been watching. Both have been waiting. And now, with the aether in play and The Pale spreading like a curse, the city is ripe.&lt;&#x2F;p&gt;
 &lt;p&gt;They will not fight us. They will absorb us.&lt;&#x2F;p&gt;
 </content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>The Missing Are Not Missing—They’ve Been Taken</title>
+        <published>2024-04-17T06:41:00+00:00</published>
+        <updated>2024-04-17T06:41:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              John Doe
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://thecityhaspulledthewooloveroureyesbutnolonger.info/posts/missing-not-missing/"/>
+        <id>https://thecityhaspulledthewooloveroureyesbutnolonger.info/posts/missing-not-missing/</id>
+        
+        <summary type="html">&lt;p&gt;Something is happening in the city. Something no one wants to talk about.&lt;&#x2F;p&gt;
+&lt;p&gt;The numbers don’t lie, even if the officials do. People are vanishing. Not just a few. Not just here and there. &lt;strong&gt;Hundreds&lt;&#x2F;strong&gt;. And not the kind of people who get press coverage. Not the kind who have families that can afford billboards and search parties.&lt;&#x2F;p&gt;</summary>
         
     </entry>
     <entry xml:lang="en">
